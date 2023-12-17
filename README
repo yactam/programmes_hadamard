@@ -1,0 +1,7 @@
+##Pour compiler un programme utilisez:
+
+  ocamlc -o programme programme.ml 
+
+##Pour l'éxécuter utilisez:
+
+  ./programme 
