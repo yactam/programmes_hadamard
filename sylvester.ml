@@ -1,5 +1,5 @@
 (* 
-  Si vous voulez construire des grosses matrices pour les visualizer il vaut mieux 
+  Si vous voulez construire des grosses matrices pour les visualiser il vaut mieux 
   rediriger la sortie d'erreur standard vers un fichier comme ceci:
     ./sylvester 2> mon_fichier 
 *)
